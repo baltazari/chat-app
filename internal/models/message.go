@@ -2,7 +2,7 @@ package models
 
 import "time"
 
-type Massage struct {
+type Message struct {
 	ID        uint
 	UserID    uint
 	RoomID    uint
